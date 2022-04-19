@@ -8,8 +8,7 @@
 * Nairu Nomura : [効率的な映像教育教材コンテンツ作成手法の開発](https://goo.gl/YuwsXx)
 * Ayame Ohtsuki : [OpenStreetMapにおける効率的な建物外形追加手法の検討ー PWAを用いたクロスプラットフォーム編集ツールの開発 ー
 ](https://goo.gl/Zg19UQ)
-* Aya Shibata : [https://goo.gl/eVUQY5](防災設備における固有名詞の命名ルール検討と周辺のランドスケープアーカイブ ー 神奈川県大和市を例として ー
-)
+* Aya Shibata : [防災設備における固有名詞の命名ルール検討と周辺のランドスケープアーカイブ ー 神奈川県大和市を例として ー](https://goo.gl/eVUQY5)
 * Yuna Watanabe : [日本全国のラーメン二郎店舗位置情報オープン化の実践](https://goo.gl/RJQDPs)
 * Yuka Kato : [ソーシャルイベントにおけるレセプション難民を産まない手法の開発と実践 ー TEDxAoyamaGakuinU 2018 を例に ー
 ](https://goo.gl/ZDuUEA)
